@@ -1,5 +1,1 @@
-Hii I am Prateeksha Tripathy.
-I am currently pursuing BTech in CSE.
-A keen learner aiming for expertise in full stack development.
-Skills: C,C++,Java (core), HTML,CSS
-Currently learning javascript.
+Hii  this is cherry-pick command used in Branch B after resolving the conflicts
